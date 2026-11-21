@@ -170,6 +170,7 @@
 | [fast.ai](https://www.fast.ai/) | 实用深度学习课程 | ⭐⭐⭐⭐⭐ |
 | [DataCamp](https://www.datacamp.com/) | 数据科学互动学习 | ⭐⭐⭐⭐ |
 | [和鲸社区](https://www.kesci.com/) | 中文数据科学社区 | ⭐⭐⭐⭐ |
+| [资料星球 · AI 与编程资料](https://resources.packscena.com/categories/ai/) | 中文学习资料索引，可检索 AI 入门与编程主题，部分条目可先预览目录；当前免费领取，文件通过夸克获取 | ⭐⭐⭐ |
 
 ---
 
